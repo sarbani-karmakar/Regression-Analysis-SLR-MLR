@@ -1,0 +1,11 @@
+"Since blue is the reference category, ",,,,Price ($),Age (Years),Colour_Red,Colour_Silver
+"•Colour_Red = 1 if the car is red, 0 otherwise",,,,"15,000",3,1,0
+"•Colour_silver = 1 if car is silver, 0 otherwise",,,,"12,500",4,0,0
+"If both are 0, the car is blue (reference category)",,,,"16,000",3,0,1
+,,,,"11,000",5,1,0
+,,,,"13,000",4,0,0
+,,,,"18,500",2,0,1
+,,,,"9,000",7,0,0
+,,,,"14,200",4,1,0
+,,,,"17,000",2,1,0
+,,,,"15,500",3,0,1
