@@ -38,7 +38,7 @@ linear relationship with X. The remaining 20% is unexplained random error.
 
 ---
 
-## Q3: Case Study — Exam Score vs Study Hours
+## Q3: Case Study: Exam Score vs Study Hours
 
 **Regression Output:**
 - Intercept (β0): 65.2
@@ -83,7 +83,7 @@ for each group.
 
 ## Q5: How many dummy variables for "Season" (Spring, Summer, Autumn, Winter)?
 
-**Answer:** 3 dummy variables are needed. For k categories, we need (k-1)
+**Answer:** In this case, 3 dummy variables are needed. For k categories, we need (k-1)
 dummy variables. One category is left out as the reference/baseline to
 avoid multicollinearity.
 
