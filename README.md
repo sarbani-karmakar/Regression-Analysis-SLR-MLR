@@ -4,6 +4,10 @@ Theoretical questions and answers covering Simple Linear Regression (SLR)
 and Multiple Linear Regression (MLR) concepts, as part of the
 Accio-ISB data analytics program.
 
+## Files
+- `car_data_csv.csv` — Practical dummy variable exercise: Predicting 
+  used car prices using Age and Colour (Blue as reference category)
+
 ## Result: 9.8/10
 
 ---
